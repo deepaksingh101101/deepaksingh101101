@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Naturally Good](https://www.naturallygood.in/)
+- 🔭 I’m currently working on Jobrooms Project
 
 - 🌱 I’m currently learning **Networking**
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
-- 👨‍💻 LinkedIn Profile- [https://www.linkedin.com/in/deepak-singh-32272620b/](www.linkedin.com/in/deepak-singh-32272620b/)
+- 👨‍💻 LinkedIn Profile- [https://www.linkedin.com/in/deepak-singh-32272620b/]
 
 - 💬 Ask me about **React, Next, Node, Express, Typescript**
 
